@@ -1,0 +1,61 @@
+Copyright © 2022, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: I'd do anything for love (but I won't do that)
+creator: James Richard Steinman
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: D
+
+
+
+-0------2-2-3---0-
+-2------3-3-3-3-2-
+-0---0--2-2-0---0-
+-2-4----4-0-0-4-2-
+-0----------2-2-0-
+------------3-3---
+
+             -5-5-
+             -3-3-
+             -2-2-
+             -0-0-
+             -----
+             -3-3-
+
+I would do a-ny-thing for love
+
+
+
+-----2-0-3-
+-----3-2-3-
+-----2-0-2-
+-----4-2-0-
+-0-0-0-0---
+-----2-0-3-
+
+        -2-
+        -3-
+        -2-
+        -0-
+        ---
+        ---
+
+But I won't do that

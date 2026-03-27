@@ -1,0 +1,52 @@
+Copyright © 2022, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: Diary of a madman (main guitar riff) w/ impressions
+creator: Randy Rhodes
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: Am
+
+
+ || 1 & 2 & 3 & | 1 & 2 & 3 & | 1 & 2 & 3 & |
+
+e||-------------|-------------|-------------|
+B||-------------|-------------|-------------|
+G||-----5---4---|-----2---4---|-5---4---2---|
+D||---2---2---2-|---2---2---2-|---2---2---2-|
+A||-0-----------|-0-----------|-------------|
+E||-------------|-------------|-------------|
+         suspense pause    suspense   relief
+
+e||-------------|-------------|---------|
+B||-------------|-------------|---------|
+G||-----5---4---|-2---4---5---|-4-------|
+D||---2---2---2-|---2---2---2-|---2---2-|
+A||-0-----------|-------------|---------|
+E||-------------|-------------|-----0---|
+    calm             suspense throw drop
+
+e||---|
+B||---|
+G||---|
+D||---|
+A||-0-|
+E||---|
+   catch

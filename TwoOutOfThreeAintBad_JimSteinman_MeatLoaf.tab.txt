@@ -1,0 +1,100 @@
+Copyright © 2022, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: Two out of three ain't bad
+creator: James Richard Steinman
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: G
+
+
+
+--3----------0-------
+--3----------3-------
+--0----------0-------
+--0----------0-------
+--2----------2-------
+--3----------0-------
+I want you I need you
+
+----------0--------2--
+----------1--------3--
+----------0--------2--
+----------2--------0--
+----------3-----------
+----------------------
+But there ain't no way
+
+----2----------0-------
+----3----------3-------
+----2----------0-------
+----4----------0-------
+----2----------2-------
+---------------0-------
+I'm ever gonna love you
+
+----0-----0--0----0-----0--0---
+----1-----0--1----1-----0--1---
+----0-----0--2----0-----0--2---
+----2-----2--2----2-----2--2---
+----0-----0--0----0-----0--0---
+-------------------------------
+Now don't be sad (don't be sad)
+
+-------0---------0-----0-----0----------
+-------1---------1-----0-----3--------0-
+-------0---------0-----0-----2----0-2---
+-------2---------1-----1-----0--4-------
+-------3---------0-----0-----2----------
+-----------------------------0----------
+'Cause two outta three ain't bad
+
+0-----0--0--
+1-----0--1--
+0-----0--2--
+2-----2--2--
+0-----0--0--
+------------
+Don't be sad
+
+-------0---------0-----0-----3--
+-------1---------1-----0-----3--
+-------0---------0-----0-----0--
+-------2---------1-----1-----0--
+-------3---------0-----0-----2--
+-----------------------------3--
+'Cause two outta three ain't bad
+
+
+----------------------------
+----3--3--0---3----3--------
+-----------------------0----
+----------------------------
+----------------------------
+----------------------------
+[ba]by we can talk all night
+
+0---0----0-----0----------------
+-------------------3--3--3------
+---------------------------0----
+--------------------------------
+--------------------------------
+--------------------------------
+but that ain't gettin us nowhere

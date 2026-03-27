@@ -1,0 +1,55 @@
+Copyright © 2023, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: Black dog
+creator: Led Zeppelin
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: A
+
+
+
+---|-1-&-2-&-3-&-4-&-|-1-&-2-&-3-&-4-&-|-1-&-2-&-3-&-4-&-|-1-&-2-&-3-&-4-&-|-1-&-2-&-3-&-4-&-|
+
+-G-|-----------------|-5^------7-9-57-5|-----5^----------|-----------2-----|-2---------------|
+-D-|---------5-6-7---|-----7-----------|-7-7-----7---5-7-|-7---------2-----|-2---------------|
+-A-|-------7-------7-|-----------------|-----------------|---5-753-5-0-----|-----------------|
+-E-|-----x-----------|-----------------|-----------------|-----------------|-3^--------------|
+
+-D-|-----------------|-5^--------------|---5^------------|-----5^----------|---------5-6-7---|
+-A-|---------5-6-7---|-----7-----5-6-7-|-------7-----5-6-|-7-------7-----5-|-6-7-5-7-------7-|
+-E-|-----x-7-------7-|---------7-------|-7---------7-----|---7---------7---|-----------------|
+
+-G-|-------2---2-----|-4^2-4-2---2-----|-----5-------2---|-4^2-------2-----|-----2-----------|
+-D-|-------2---2-----|-----------2-----|-----5-------2---|-----4-2---2-----|-----2-----------|
+-A-|-------0-3^0-----|---------3^0-----|-----0-------0---|---------3^0-----|-----------------|
+-E-|-----------------|-----------------|-----------------|-----------------|-----3^----------|
+
+-e-|-----------------|-----------------|-----------------|-----------------|-----------------|
+-B-|-----------------|-----------------|-----------------|---3-------3-----|-2---------------|
+-G-|---2-----2-------|---2-----5---2---|---2-----2-------|---4-------2-----|-2---2-----------|
+-D-|---2-----2-------|---2-----5---2---|---2-----2-------|---5-------4-----|-2---2-----------|
+-A-|---0-----0-------|---0-----0---0---|---0-----0-------|-----------------|-0---------------|
+-E-|-----3-------3---|-----3-----------|-----3-------3---|---3-------2-----|-0---3^----------|
+
+^ = bend
+slides and pulloffs are not indicated
+"57-5" in second measure is a hammeron/pulloff triplet within one full beat
+"x" in first measure indicates drum sticks banging together, to time the start

@@ -1,0 +1,52 @@
+Copyright © 2022, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: Ziggy Stardust
+creator: David Bowie
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: G
+
+
+-|-----------|----------------|--------------|----------------|
+-|-----------|-7-8-7-8-7------|-3------------|----------------|
+-|-----------|-7--------------|-0------------|----------------|
+-|---5----x--|-7--------------|-x------------|----------------|
+-|---5-------|------------5\0-|-3------------|----------------|
+-|-2/3-------|----------------|-----------2h3|--------2h3-----|
+
+-|-----------|-2-3-2-3-2------|--------------|----------------|
+-|-----------|-3--------------|-3---3--------|3-----3-----3--3|
+-|---0-------|-2--------------|-0-----0---0--|----0-----------|
+-|---0-------|-0--------------|-x------------|----------------|
+-|-----------|----------------|-3-------3---2|--2-------0-----|
+-|---3-------|----------------|--------------|----------------|
+
+
+
+alternate:
+
+ | 1 & 2 & 3 & 4 & | 1 & 2 & 3 & 4 & | 1 & 2 & 3 & 4 & | 1 & 2 & 3 & 4 & |
+e|-3-------x-------|-2-3-2-3-2-------|-3-----------3---|---------3-------|
+B|-3-------x-------|-3-----------3---|-3-----------3---|---------3-------|
+G|-0-------x-------|-2---------2-----|-0-----------0---|---------0-------|
+D|-0-------x-------|-0-------------0-|-2-----------0---|---------2-------|
+A|-2-------x-------|-----------------|-3-----------2---|---------0-------|
+E|-3-------x-------|-----------------|-----------------|-----------------|

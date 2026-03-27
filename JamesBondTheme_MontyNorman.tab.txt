@@ -1,0 +1,79 @@
+Copyright © 2023, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: James Bond Theme
+creator: Monty Norman
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: Em
+
+
+
+e -7-7-------
+B -0-0-------
+G -0-0-------
+D -9-9-------
+A -7-7-------
+E -------7---
+
+
+
+A -2---3---4---3---  <-- let ring
+E ---0---0---0---0-  <-- mute
+
+
+
+E -0---2-2-2---2-------0---0---0-
+
+E -0---3-3-3---3-------2---2---2-
+
+E                     -2---1---0-
+
+A -6---5-------------------2---0---2-
+
+
+
+     .
+e -----11-10---6-7-
+B ---8-------8-----
+G -9---------------
+
+B -8-10p9p8-7
+G --------------9-6-
+D ------------9-----
+
+G              -8-9-
+
+
+
+     .         .
+D -2-2---2-4p2h4-
+
+     .     
+D -5-5---5-
+
+
+
+
+B -----------------------------4-3----7-
+G ---------------------3-2---0--------8-
+D -----1-0-----4-3---0-----2----------9-
+A -----------2-----0-----------------10-
+E -0-3-----3----------------------------

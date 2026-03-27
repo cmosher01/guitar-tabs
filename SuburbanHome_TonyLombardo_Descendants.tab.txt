@@ -1,0 +1,64 @@
+Copyright © 2018, Christopher Alan Mosher, New York, USA.
+https://github.com/cmosher01 mailto:cmosher01@gmail.com
+
+This file is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This file is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this file.  If not, see https://www.gnu.org/licenses/ .
+
+
+
+title: Suburban home
+creator: Tony Lombardo (Descendents)
+arranged by: Christopher Alan Mosher
+instrument: guitar
+tuning: standard EADGBe
+capo: none
+key: D
+
+
+
+ D A# A  F
+10 6  5  8
+10 6  5 10
+11 7  6 10
+12 8  7 10
+12 8  7  8
+10 6  5  X
+
+ G E  F F#
+10 7  8  9
+12 9 10 11
+12 9 10 11
+12 9 10 11
+10 7  8  9
+ X X  X  X
+
+A'
+12
+14
+14
+14
+12
+ X
+
+
+
+D  D  D  D  |  A# A# A  A
+D  D  D  D  |  A# A# A  F
+D  D  D  D  |  A# A# A  A
+D  D  D  D  |  F  F  F  F
+
+G  G  G  G  |  G  G  G  G  G  G
+D  D  D  D  |  D  E  F  F#
+G  G  G  G  |  G  G  G  G  G  G
+D  D  D  D  D  A' |  D  D  D  D  D  A'
+D  D  D  D  D  A' |  D  D  D  D  D  A'
